@@ -13,6 +13,4 @@ int main()
 
     cout<<10/3; // For integer division, i.e remainder
 
-    // 56:08
-
 }

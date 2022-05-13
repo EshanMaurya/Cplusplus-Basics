@@ -4,12 +4,12 @@ using namespace std;
 
 int main()
 {
-    string characterName = "John";
+    string characterName = "Loki";
     int characterAge;
-    characterAge = 35;   
+    characterAge = 45;   
     cout <<"This is "<< characterName << endl;
     cout <<"He/she is "<< characterAge << endl;
-    cout <<"His son is "<< characterAge-23 << endl;
-    characterName = "Johnny";
-    cout <<"The father has recently changed his name to "<< characterName << endl;
+    cout <<"His/Her son is "<< characterAge-23 << endl;
+    characterName = "Hamburg";
+    cout <<"The father/mother has recently changed his name to "<< characterName << endl;
 }
